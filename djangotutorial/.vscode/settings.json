@@ -1,0 +1,6 @@
+{
+    "python.analysis.extraPaths": ["/usr/local/lib/python3.13/site-packages"],
+    "python.analysis.indexing": true,
+    "python.languageServer": "Pylance",
+    "python.defaultInterpreterPath": "/usr/local/bin/python3.13"
+  }
